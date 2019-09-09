@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="testng-module" parallel="none" allow-return-values="true" >
+ 
+    <test name="Buzzpro"  >
+<classes>
+
+     <class name="test.java.BuzzproAdvertisingTest"/>
+      
+ 
+</classes>
+
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->          
